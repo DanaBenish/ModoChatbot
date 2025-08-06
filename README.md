@@ -1,6 +1,6 @@
 # University of Modo Campus Assistant Chatbot - Front End
 
-A React-based frontend for the University of Modo Campus Assistant, connecting to a FastAPI backend.
+A React-based frontend for the University of Modo Campus Assistant, connecting to a FastAPI backend. Response data currently finds best match from MIT handbook.
 
 ## 🎬 Demo Video  
 [![Watch the Demo](https://img.shields.io/badge/▶_Watch_Full_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=YGy8wsjA0Vs)  
