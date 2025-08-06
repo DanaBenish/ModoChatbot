@@ -2,6 +2,10 @@
 
 A React-based frontend for the University of Modo Campus Assistant, connecting to a FastAPI backend.
 
+## 🎬 Demo Video  
+[![Watch the Demo](https://img.shields.io/badge/▶_Watch_Full_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=YGy8wsjA0Vs)  
+*(Click the button above to see the full functionality walkthrough!)*
+
 ## Prerequisites
 
 - Node.js (v16 or higher)
